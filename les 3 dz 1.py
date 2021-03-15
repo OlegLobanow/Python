@@ -11,12 +11,4 @@ def div(*args):
 
     return res
 
-    '''
-    if arg2 != 0:
-        return arg1 / arg2
-    else:
-        print('Делитель не может быть нулевым')
-    '''
-
-
 print(f'{div()}')
